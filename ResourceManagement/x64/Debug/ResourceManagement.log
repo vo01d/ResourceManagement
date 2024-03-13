@@ -1,0 +1,5 @@
+﻿  Task1.cpp
+C:\Users\Asus\source\repos\ResourceManagement\ResourceManagement\Task1.cpp(56,6): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Task2.cpp
+  Generating Code...
+  ResourceManagement.vcxproj -> C:\Users\Asus\source\repos\ResourceManagement\x64\Debug\ResourceManagement.exe
